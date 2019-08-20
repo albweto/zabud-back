@@ -1,0 +1,14 @@
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/bin/Debug/netcoreapp2.2/ZabudApi.deps.json
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/bin/Debug/netcoreapp2.2/ZabudApi.runtimeconfig.json
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/bin/Debug/netcoreapp2.2/ZabudApi.runtimeconfig.dev.json
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/bin/Debug/netcoreapp2.2/ZabudApi.dll
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/bin/Debug/netcoreapp2.2/ZabudApi.pdb
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.csprojAssemblyReference.cache
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.csproj.CoreCompileInputs.cache
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.RazorAssemblyInfo.cache
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.RazorAssemblyInfo.cs
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.AssemblyInfoInputs.cache
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.AssemblyInfo.cs
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.RazorTargetAssemblyInfo.cache
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.dll
+/home/samuelhenriquez/Documentos/Desarrollos/donet/ZabudApi/obj/Debug/netcoreapp2.2/ZabudApi.pdb
